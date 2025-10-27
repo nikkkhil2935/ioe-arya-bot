@@ -88,14 +88,14 @@ nest-asyncio==1.6.0
 notebook==7.3.2
 notebook_shim==0.2.4
 numba==0.62.1
-numpy==1.26.4
+numpy
 overrides==7.7.0
 packaging==23.2
 panda==0.3.1
-pandas==2.0.2
+pandas
 pandocfilters==1.5.1
 parso==0.8.4
-Pillow==9.5.0
+Pillow
 pipenv==2025.0.4
 platformdirs==4.3.6
 plotly==6.0.1
@@ -128,7 +128,6 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 rich==13.9.4
 rpds-py==0.22.3
-scikit-learn==1.2.2
 scipy==1.15.1
 seaborn==0.13.2
 Send2Trash==1.8.3
@@ -178,3 +177,4 @@ wrapt==1.17.3
 xgboost==1.7.5
 xyzservices==2025.1.0
 zipp==3.23.0
+

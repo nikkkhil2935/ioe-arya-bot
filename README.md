@@ -11,7 +11,7 @@ A machine learning-powered parking occupancy and vehicle type prediction system 
 
 ## Live Demo
 
-[Add your Streamlit Cloud deployment link here]
+https://ioe-arya-botg-krowec2cqc6fsnifbwa3qw.streamlit.app/
 
 ## Installation
 

@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 
+st.set_page_config(page_title="Smart Parking Dashboard", layout="centered")
+
 @st.cache_resource
 def load_vacancy_model():
     return joblib.load('xgb_parking_vacancy_model.pkl')
@@ -13,7 +15,7 @@ def load_vehicle_type_model():
 vacancy_model = load_vacancy_model()
 vehicle_type_model = load_vehicle_type_model()
 
-st.set_page_config(page_title="Smart Parking Dashboard", layout="centered")
+
 
 st.title("Smart Parking Occupancy & Vehicle Type Predictor")
 

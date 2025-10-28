@@ -524,7 +524,7 @@ else:
         st.markdown("""
         <div class="info-box" style="border-left-color: #2ecc71;">
         <h4>👨‍💻 Developer</h4>
-        <b>Nikhil</b><br/>
+        <b>Arya Sable</b><br/>
         IOE Arya Project<br/><br/>
         
         <b>GitHub:</b><br/>
@@ -571,3 +571,4 @@ st.markdown(
     "<p style='text-align: center; color: #7f8c8d;'>© 2025 Smart Parking System | Built with ❤️ using Streamlit</p>",
     unsafe_allow_html=True
 )
+
